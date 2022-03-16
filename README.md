@@ -1,4 +1,5 @@
 # CS370-Current-Emerging-Trends
+Explored advanced topics in Computer Science through analysis of authentic scenarios. Analyzed the role of ethics in current trends within the field as well as applied fundamental concepts of the field to solve complex problems in new ways. 
 
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 The work that needed to be done on this project was the implementation of the Q-learning algorithm. We were given code that setup the environment, built the neural network, and ran the game. I created the code that implemented deep Q-learning, which involved the agent starting in a random location, calling other methods that were given to us, and training the model. 
